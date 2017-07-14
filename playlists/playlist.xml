@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DSMusicPlayer>
+    <configuration>
+        <artworkBlur>7px</artworkBlur>
+        <autoplay>true</autoplay>
+        <shareButton>true</shareButton>
+        <muteButton>true</muteButton>
+        <repeatButton>true</repeatButton>
+        <shuffleButton>true</shuffleButton>
+    </configuration>
+    <playlist>
+        <track>
+            <artist>Arvind Narayan</artist>
+            <title>Man with No Face</title>
+            <url>./audio/music1.mp3</url>
+            <artwork>./audio/music1.jpg</artwork>
+            <apple>http://imarvind.uphero.com/</apple>
+            <amazon>http://imarvind.uphero.com/</amazon>
+            <download>true</download>
+        </track>
+        <track>
+            <artist>Adarsh Sosale</artist>
+            <title>The Sosalini</title>
+            <url>./audio/music2.mp3</url>
+            <artwork>./audio/music2.jpg</artwork>
+            <apple>www.apple.com</apple>
+            <amazon>www.amazon.com</amazon>
+            <download>true</download>
+        </track>
+        <track>
+            <artist>Nishanth</artist>
+            <title>LazyWars</title>
+            <url>./audio/music3.mp3</url>
+            <artwork>./audio/music3.png</artwork>
+            <apple>www.apple.com</apple>
+            <amazon>www.amazon.com</amazon>
+            <download>true</download>
+        </track>
+
+    </playlist>
+</DSMusicPlayer>
