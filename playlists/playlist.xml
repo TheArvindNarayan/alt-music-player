@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DSMusicPlayer>
     <configuration>
-        <artworkBlur>7px</artworkBlur>
+        <artworkBlur>10px</artworkBlur>
         <autoplay>true</autoplay>
         <shareButton>true</shareButton>
         <muteButton>true</muteButton>
@@ -31,7 +31,7 @@
             <artist>Nishanth</artist>
             <title>LazyWars</title>
             <url>./audio/music3.mp3</url>
-            <artwork>./audio/music3.png</artwork>
+            <artwork>./audio/music3.jpg</artwork>
             <apple>www.apple.com</apple>
             <amazon>www.amazon.com</amazon>
             <download>true</download>

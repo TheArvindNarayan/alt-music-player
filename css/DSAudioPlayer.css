@@ -13,6 +13,12 @@ div.DSAudioPlayer {
     overflow: hidden;
     position: relative;
 }
+
+.frontTiming{
+    font-family: "SF UI Text";
+    font-size: 15px;
+    font-weight: bold;
+}
 div.DSAudioPlayer > .blur {
     width: 100%;
     height: 100%;
@@ -116,7 +122,8 @@ div.middle > .play > .playpausebtn{
     transform: translate(-50%,-50%);
 }
 div.middle > .play > .frontTiming{
-    width: 90px;
+    width: 125px;
+    border-radius: 2em;
     background-color: rgba(255,255,255,0.7);
     position: absolute;
     bottom: -40px; left: 50%;
